@@ -1,2 +1,4 @@
 # Learn-git
-Learning how to use Gith &amp; github
+Learning how to use Git &amp; github
+
+By NAESBHY
